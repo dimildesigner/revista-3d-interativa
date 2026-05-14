@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="client/public/favicon-512.png" alt="Jukebox Experience Logo" width="120" />
+  <img src="../revista-3d/public/icon_revista_3d.svg" alt="JRevista 3D Interativa" width="120" />
   <h1>📖 Revista 3D Interativa</h1>
   <p><strong>Uma experiência imersiva de leitura digital</strong></p>
 
