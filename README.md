@@ -1,4 +1,4 @@
-📖 Interactive 3D Showcase Magazine
+📖 Revista 3D Interativa
 Uma experiência imersiva de leitura digital desenvolvida com React.js e Three.js. Este projeto simula uma revista física em um ambiente 3D, permitindo a interação com a virada de páginas, curvatura realista do papel e iluminação dinâmica.
 
 🚀 Sobre o Projeto

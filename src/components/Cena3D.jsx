@@ -1,7 +1,7 @@
 import { OrbitControls, ContactShadows } from "@react-three/drei";
 import { Book } from "./Book";
 
-export const Experience = () => {
+export const Cena3D = () => {
   return (
     <>
       <OrbitControls 

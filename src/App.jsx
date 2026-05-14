@@ -1,5 +1,5 @@
 import { Canvas } from "@react-three/fiber";
-import { Experience } from "./components/Experience";
+import { Cena3D } from "./components/Cena3D";
 import UI from "./components/UI";
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
         // Isso garante que o Canvas ocupe todo o espaço do container pai
         style={{ width: '100%', height: '100%' }} 
       >
-        <Experience />
+        <Cena3D />
       </Canvas>
     </div>
   );
