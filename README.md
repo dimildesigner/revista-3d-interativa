@@ -4,7 +4,7 @@
   <p><strong>Uma experiência imersiva de leitura digital</strong></p>
 
   <p>
-    <a href="#" target="_blank">
+    <a href="https://github.com/dimildesigner/revista-3d-interativa" target="_blank">
       <img alt="Live Demo" src="#" />
     </a>
     <img alt="Three.js" src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
