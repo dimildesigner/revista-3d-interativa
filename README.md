@@ -4,8 +4,8 @@
   <p><strong>Uma experiência imersiva de leitura digital</strong></p>
 
   <p>
-    <a href="https://github.com/dimildesigner/revista-3d-interativa" target="_blank">
-      <img alt="Live Demo" src="#" />
+    <a href="[https://github.com/dimildesigner/revista-3d-interativa](https://revista-3d-interativa.vercel.app/)" target="_blank">
+      <img alt="Live Demo" src="[#](https://revista-3d-interativa.vercel.app/)" />
     </a>
     <img alt="Three.js" src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
     <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
