@@ -4,7 +4,7 @@
   <p><strong>Uma experiência imersiva de leitura digital</strong></p>
 
   <p>
-    <a href="https://jukebox-experience.vercel.app" target="_blank">
+    <a href="https://revista-3d-interativa.vercel.app" target="_blank">
       <img alt="Live Demo" src="https://img.shields.io/badge/demo-ao%20vivo-71c837?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <img alt="Three.js" src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
