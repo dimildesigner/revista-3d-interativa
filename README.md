@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/dimildesigner/revista-3d-interativa/blob/main/public/icon_revista_3d.svg" alt="Revista 3D | Interativa" width="120" />
-  <h1>📖 Revista 3D | Interativa</h1>
+  <h1>Revista 3D | Interativa</h1>
   <p><strong>Uma experiência imersiva de leitura digital</strong></p>
 
   <p>
