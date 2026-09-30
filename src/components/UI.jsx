@@ -20,7 +20,7 @@ export default function UI() {
             lineHeight: 1,
           }}
         >
-          REVISTA <span style={{ color: "#fff71e" }}>3D</span>
+          PORTFOLIO <span style={{ color: "#a857f6" }}>3D</span>
         </h1>
         <p
           style={{
@@ -32,7 +32,7 @@ export default function UI() {
             letterSpacing: "6px",
           }}
         >
-          INTERATIVA
+          INTERATIV0
         </p>
       </div>
 
